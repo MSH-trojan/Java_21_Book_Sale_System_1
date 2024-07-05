@@ -27,4 +27,3 @@ Finally the driver will display using toString() only the books with prices over
 
 After you finish class Driver, write classes Book, Paperback and HardCopy.
 
-![image](https://github.com/MSH-trojan/Java_21_Book_Sale_System_1/assets/157653802/574ad581-f529-4c6a-b133-f7465d8911a6)
